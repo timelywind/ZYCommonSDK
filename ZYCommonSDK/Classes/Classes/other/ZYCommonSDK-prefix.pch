@@ -1,0 +1,7 @@
+#ifdef __OBJC__
+
+#import "ZYTestViewController.h"
+#import "ZTHelloViewController.h"
+
+#endif
+

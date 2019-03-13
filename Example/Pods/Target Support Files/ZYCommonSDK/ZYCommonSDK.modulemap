@@ -1,0 +1,6 @@
+framework module ZYCommonSDK {
+  umbrella header "ZYCommonSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
