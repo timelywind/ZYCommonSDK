@@ -22,7 +22,7 @@ pod 'ZYCommonSDK'
 
 ## Author
 
-timelywind, zhenyu1@eastmoney.com
+timelywind
 
 ## License
 
